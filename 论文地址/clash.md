@@ -1,0 +1,1 @@
+- 新版的clash现在只支持fake-ip模式。你的配置文件里用的是redir-host，不支持，要不你就用老版本的核心吧。如果能够修改增强模式（enhanced-mode）的话，可以设置为fake-ip。
